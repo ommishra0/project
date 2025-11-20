@@ -1,0 +1,5 @@
+{
+  "name": "Project",
+  "description": "A minimalist, high-performance image recognition application powered by Google's Gemini 2.5 Flash model. Analyze images with natural language prompts.",
+  "requestFramePermissions": []
+}
